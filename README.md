@@ -6,5 +6,5 @@ Programming Languages:
 
 
 ![python_104451](https://user-images.githubusercontent.com/53907172/108472445-6c717300-7295-11eb-929d-43bea0b2a73e.png)
-![descărcare (1)](https://user-images.githubusercontent.com/53907172/108472130-02f16480-7295-11eb-8529-a4cadf765f2c.png)
+![descărcare (2)](https://user-images.githubusercontent.com/53907172/108472675-bd816700-7295-11eb-90af-b0c30a5975a5.png)
 ![descărcare](https://user-images.githubusercontent.com/53907172/108472139-0684eb80-7295-11eb-884b-f444df95c99a.png)
